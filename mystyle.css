@@ -1,0 +1,31 @@
+img {
+    width: 125px;
+    height: 100px;
+    border-radius: 50px;
+
+    
+}
+
+h2 {
+    color: purple;
+    text-align: center;
+}
+
+body {
+    background-color: peachpuff;
+}
+
+p {
+    
+    font-size: 20px;
+    font-weight: 400;
+       
+}
+.main {
+    color: maroon;
+    display: inline-block;
+}
+.anyother {
+    background-color: palegoldenrod;
+    
+}
